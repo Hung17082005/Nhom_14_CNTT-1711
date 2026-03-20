@@ -43,10 +43,13 @@ hotel_mining_project/
 
 ### 1. Clone repo
 git clone https://github.com/Hung17082005/Nhom_14_CNTT-1711.git
+
 cd Nhom_14_CNTT-1711
+
 2. Tạo môi trường ảo
 python -m venv venv
 venv\Scripts\activate   # Windows
+
 3. Cài thư viện
 pip install -r requirements.txt
 Chạy project
