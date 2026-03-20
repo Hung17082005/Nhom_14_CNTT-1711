@@ -1,0 +1,6 @@
+seed: 42
+text_column: review
+target_sentiment: sentiment
+target_rating: rating
+max_features: 5000
+k_clusters: 5
